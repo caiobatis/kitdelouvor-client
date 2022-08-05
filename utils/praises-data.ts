@@ -8,6 +8,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     externalURL: "string",
     imagePath: "string",
-    type: PraiseTypeEnum.CIFRA
+    type: PraiseTypeEnum.CIFRA,
+    year: 2000
   }
 ]

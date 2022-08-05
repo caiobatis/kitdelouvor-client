@@ -12,8 +12,8 @@ export enum PraiseCategoryEnum {
 
 export enum PraiseCDEnum {
   EMPTY = "",
-  CD_JOVEM_1992 = "CD Jovem 1992 - Nosso Sol é Jesus",
-  CD_JOVEM_2005 = "CD Jovem 2005 - Fiel a Toda Prova",
+  CD_JOVEM_1992 = "Nosso Sol é Jesus",
+  CD_JOVEM_2005 = "Fiel a Toda Prova",
 }
 
 export enum PraiseTypeEnum {
@@ -29,4 +29,5 @@ export interface Praise {
   externalURL?: string
   imagePath?: string
   type?: PraiseTypeEnum
+  year?: number
 }

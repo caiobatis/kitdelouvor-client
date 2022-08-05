@@ -6,6 +6,7 @@ import {
   Text,
   Button,
 } from '@chakra-ui/react';
+import Card from '../components/Card';
 
 import Layout from '../components/Layout/Layout'
 
@@ -50,6 +51,20 @@ const IndexPage = () => (
             Buscar
           </Button>
         </Stack>
+      </Stack>
+
+      <Stack
+        spacing={{ base: 8, md: 10 }}
+        py={{ base: 20, md: 28 }}
+      >
+
+        <Text as={'span'} color={'orange.400'}>
+          Kit de Louvor
+        </Text>
+
+        <Card />
+        <Card />
+        <Card />
       </Stack>
     </Container>
   </Layout>

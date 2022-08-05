@@ -1,6 +1,7 @@
 import React, { ReactNode } from 'react'
 import Head from 'next/head'
 import Header from '../Header'
+import { Box, useColorModeValue } from '@chakra-ui/react'
 
 type Props = {
   children?: ReactNode
@@ -8,7 +9,7 @@ type Props = {
 }
 
 const Layout = ({ children, title = 'Kit de Louvor - IASD' }: Props) => (
-  <div>
+  <Box bg={useColorModeValue('gray.100', 'gray.900')}>
     <Head>
       <title>{title}</title>
       <meta charSet="utf-8" />
@@ -19,7 +20,7 @@ const Layout = ({ children, title = 'Kit de Louvor - IASD' }: Props) => (
 
     {children}
 
-  </div>
+  </Box>
 )
 
 export default Layout
