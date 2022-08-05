@@ -10,14 +10,13 @@ import {
 } from '@chakra-ui/react';
 import { MoonIcon, SunIcon } from '@chakra-ui/icons';
 
-
 export default function Header() {
   const { colorMode, toggleColorMode } = useColorMode();
 
   return (
     <>
-      <Box bg={useColorModeValue('gray.100', 'gray.900')} px={4}>
-        <Container maxW='container.lg'>
+      <Box>
+        <Container maxW="container.lg">
           <Flex h={16} alignItems={'center'} justifyContent={'space-between'}>
             <Box>
               <Text fontSize={18}>Kit de Louvor</Text>
