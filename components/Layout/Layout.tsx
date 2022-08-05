@@ -9,7 +9,7 @@ type Props = {
 };
 
 const Layout = ({ children, title = 'Kit de Louvor - IASD' }: Props) => (
-  <Box bg={useColorModeValue('gray.50', 'transparent')}>
+  <Box bg={useColorModeValue('gray.50', 'transparent')} pb={20}>
     <Head>
       <title>{title}</title>
       <meta charSet='utf-8' />

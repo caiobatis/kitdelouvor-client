@@ -1,11 +1,10 @@
 import { FC } from 'react';
-import { Box, Button, Flex, Tag, Text, useColorModeValue } from '@chakra-ui/react';
+import { Box, Flex, Tag, Text, useColorModeValue } from '@chakra-ui/react';
+import { Praise } from '../../interfaces';
 
-interface Card {
-  title?: string;
-}
+type CardProps = Praise;
 
-const Card: FC<Card> = () => {
+const Card: FC<CardProps> = ({ title = '', category, cd, externalURL, imagePath, type, year }) => {
   return (
     <Flex
       p={4}
@@ -26,21 +25,25 @@ const Card: FC<Card> = () => {
         mr={4}
       >
         <Text fontSize='2xl' fontWeight={200} color='white'>
-          NO
+          {category.split(' ')[0][0].toUpperCase()}
+          {category.split(' ')[1][0].toUpperCase()}
         </Text>
       </Flex>
       <Box w='full'>
+        <Text fontSize='md' fontWeight={600}>
+          {title}
+        </Text>
         <Flex>
-          <Text fontSize='md' fontWeight={600}>
-            Sou de Jesus
+          <Text fontSize='xs'>{category}</Text>
+          <Text fontSize='xs' ml={4}>
+            <b>
+              {year && `${year}`} {cd && `- ${cd}`}
+            </b>
           </Text>
         </Flex>
-        <Text fontSize='sm'>
-          2006 | CD Sou de Jesus | <b>Ministério Jovem</b>
-        </Text>
       </Box>
       <Tag paddingInlineStart={4} paddingInlineEnd={4} size='sm'>
-        cifra
+        {type}
       </Tag>
     </Flex>
   );
