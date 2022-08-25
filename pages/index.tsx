@@ -6,6 +6,7 @@ import {
   Text,
   Button,
   useColorModeValue,
+  Box,
 } from '@chakra-ui/react';
 import { FC } from 'react';
 import Card from '../components/Card';
@@ -44,12 +45,12 @@ const IndexPage: FC<IndexProps> = ({ data = [] }) => {
             lineHeight={'110%'}
           >
             Encontre seu{' '}
-            <Text as={'span'} color={'orange.400'}>
+            <Text as='span' color='orange.400'>
               Kit de Louvor
             </Text>
           </Heading>
 
-          <Text color={'gray.500'} maxW={'3xl'}>
+          <Text color={useColorModeValue('gray.500', 'gray.200')} maxW={'3xl'}>
             Use a barra de busca abaixo para procurar pelo hino desejado. Busque por título, nome do
             CD ou ano da música.
           </Text>
@@ -59,9 +60,9 @@ const IndexPage: FC<IndexProps> = ({ data = [] }) => {
               w='full'
               rounded='full'
               placeholder='Busque aqui'
-              borderColor={useColorModeValue('gray.400', 'gray.600')}
+              borderColor={useColorModeValue('gray.500', 'gray.400')}
               _placeholder={{
-                color: useColorModeValue('gray.500', 'gray.600'),
+                color: useColorModeValue('gray.500', 'gray.400'),
               }}
             />
 

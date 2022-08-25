@@ -4,16 +4,19 @@ import { Praise } from '../../interfaces';
 
 type CardProps = Praise;
 
-const Card: FC<CardProps> = ({ title = '', category, cd, externalURL, imagePath, type, year }) => {
+const Card: FC<CardProps> = ({ title = '', category, cd, externalURL, type, year, author }) => {
   return (
     <Flex
       p={4}
       rounded='md'
       alignItems='center'
       border='1px solid'
-      borderColor={useColorModeValue('gray.200', 'gray.700')}
+      borderColor={useColorModeValue('gray.200', 'gray.600')}
       _hover={{ borderColor: 'gray.400', cursor: 'pointer' }}
       position='relative'
+      as='a'
+      href={externalURL}
+      target='_blank'
     >
       <Flex
         rounded='md'
@@ -41,10 +44,16 @@ const Card: FC<CardProps> = ({ title = '', category, cd, externalURL, imagePath,
             </b>
           </Text>
         </Flex>
+        <Text fontSize='xs'>{author}</Text>
       </Box>
-      <Tag paddingInlineStart={4} paddingInlineEnd={4} size='sm'>
+      <Box
+        px={2}
+        bgColor={useColorModeValue('gray.200', 'gray.600')}
+        fontSize='xs'
+        borderRadius={8}
+      >
         {type}
-      </Tag>
+      </Box>
     </Flex>
   );
 };
