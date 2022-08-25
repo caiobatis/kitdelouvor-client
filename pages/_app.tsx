@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { ChakraProvider } from '@chakra-ui/react';
 
 function App({ Component, pageProps }) {

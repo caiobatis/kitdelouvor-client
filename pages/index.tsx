@@ -6,7 +6,6 @@ import {
   Text,
   Button,
   useColorModeValue,
-  Box,
 } from '@chakra-ui/react';
 import { FC } from 'react';
 import Card from '../components/Card';

@@ -1,5 +1,5 @@
 import { FC } from 'react';
-import { Box, Flex, Tag, Text, useColorModeValue } from '@chakra-ui/react';
+import { Box, Flex, Text, useColorModeValue } from '@chakra-ui/react';
 import { Praise } from '../../interfaces';
 
 type CardProps = Praise;
