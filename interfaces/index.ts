@@ -19,6 +19,7 @@ export enum PraiseCDEnum {
 export enum PraiseTypeEnum {
   CIFRA = 'Cifra',
   PARTITURA = 'Partitura',
+  PLAYBACK = 'Playback',
 }
 
 export interface Praise {
@@ -30,4 +31,5 @@ export interface Praise {
   imagePath?: string;
   type?: PraiseTypeEnum;
   year?: number;
+  author: string;
 }

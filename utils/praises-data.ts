@@ -11,6 +11,7 @@ export const praiseData: Praise[] = [
     imagePath: '',
     type: PraiseTypeEnum.CIFRA,
     year: null,
+    author: 'Fulano da Silva',
   },
   {
     id: 2,
@@ -22,6 +23,7 @@ export const praiseData: Praise[] = [
     imagePath: '',
     type: PraiseTypeEnum.CIFRA,
     year: null,
+    author: 'Fulano da Silva',
   },
   {
     id: 3,
@@ -33,6 +35,7 @@ export const praiseData: Praise[] = [
     imagePath: '',
     type: PraiseTypeEnum.CIFRA,
     year: null,
+    author: 'Fulano da Silva',
   },
   {
     id: 4,
@@ -44,6 +47,7 @@ export const praiseData: Praise[] = [
     imagePath: '',
     type: PraiseTypeEnum.CIFRA,
     year: null,
+    author: 'Fulano da Silva',
   },
   {
     id: 5,
@@ -55,5 +59,6 @@ export const praiseData: Praise[] = [
     imagePath: '',
     type: PraiseTypeEnum.CIFRA,
     year: 1992,
+    author: 'Fulano da Silva',
   },
 ];
