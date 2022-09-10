@@ -7,7 +7,7 @@ import {
   Button,
   useColorModeValue,
 } from '@chakra-ui/react';
-import { FC } from 'react';
+import { ChangeEvent, FC, InputHTMLAttributes, useState } from 'react';
 import Card from '../components/Card';
 
 import Layout from '../components/Layout/Layout';
@@ -26,11 +26,13 @@ const groupBy = function (xs: Array<Praise>, key) {
 };
 
 const IndexPage: FC<IndexProps> = ({ data = [] }) => {
+  const [search, setSearch] = useState('');
+
   const dataByCategory = groupBy(data, 'category');
 
   return (
     <Layout>
-      <Container maxW={'5xl'}>
+      <Container maxW={'5xl'} minH={'4xl'}>
         <Stack
           textAlign={'center'}
           align={'center'}
@@ -63,6 +65,8 @@ const IndexPage: FC<IndexProps> = ({ data = [] }) => {
               _placeholder={{
                 color: useColorModeValue('gray.500', 'gray.400'),
               }}
+              value={search}
+              onChange={(e: ChangeEvent<HTMLInputElement>) => setSearch(e.target.value)}
             />
 
             <Button
@@ -71,23 +75,38 @@ const IndexPage: FC<IndexProps> = ({ data = [] }) => {
               colorScheme='orange'
               bg='orange.400'
               _hover={{ bg: 'orange.500' }}
+              // onClick={() => setSearch()}
             >
               Buscar
             </Button>
           </Stack>
         </Stack>
 
-        {Object.keys(dataByCategory).map(listItem => (
-          <Stack key={Math.random()} spacing={{ base: 4, md: 4 }} py={{ base: 8, md: 8 }}>
-            <Text color='gray.500' fontSize='md'>
-              {listItem}
-            </Text>
+        {/* eslint-disable */}
+        {!search
+          ? Object.keys(dataByCategory).map(listItem => (
+            <Stack key={Math.random()} spacing={{ base: 4, md: 4 }} py={{ base: 8, md: 8 }}>
+              <Text color='gray.500' fontSize='md'>
+                {listItem}
+              </Text>
+              {dataByCategory[listItem].slice(0, 5).map(item => (
+                <Card key={Math.random()} {...item} />
+              ))}
+            </Stack>
+          ))
+          :  (
+              <Stack key={Math.random()} spacing={{ base: 4, md: 4 }} py={{ base: 8, md: 8 }}>
+                <Text color='gray.500' fontSize='md'>
+                  Buscando por {search}
+                </Text>
 
-            {dataByCategory[listItem].map(item => (
-              <Card key={item.id} {...item} />
-            ))}
-          </Stack>
-        ))}
+                {data.filter((item)=> (item.author.toLowerCase().includes(search.toLowerCase()) || 
+                item.title.toLowerCase().includes(search.toLowerCase()) ||
+                item.category.toLowerCase().includes(search.toLowerCase()))).map(item => (
+                  <Card key={Math.random()} {...item} />
+                ))}
+              </Stack>
+            )}
       </Container>
     </Layout>
   );

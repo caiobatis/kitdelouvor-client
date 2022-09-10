@@ -29,7 +29,7 @@ const Card: FC<CardProps> = ({ title = '', category, cd, externalURL, type, year
       >
         <Text fontSize='2xl' fontWeight={200} color='white'>
           {category.split(' ')[0][0].toUpperCase()}
-          {category.split(' ')[1][0].toUpperCase()}
+          {category.split(' ')?.[1]?.[0].toUpperCase()}
         </Text>
       </Flex>
       <Box w='full'>
@@ -38,9 +38,10 @@ const Card: FC<CardProps> = ({ title = '', category, cd, externalURL, type, year
         </Text>
         <Flex>
           <Text fontSize='xs'>{category}</Text>
-          <Text fontSize='xs' ml={4}>
+          <Text fontSize='xs' ml={2}>
             <b>
-              {year && `${year}`} {cd && `- ${cd}`}
+              {year && `${year}`}
+              {cd && ` - ${cd}`}
             </b>
           </Text>
         </Flex>

@@ -13,7 +13,9 @@ export enum PraiseCategoryEnum {
 export enum PraiseCDEnum {
   EMPTY = '',
   CD_JOVEM_1992 = 'Nosso Sol é Jesus',
+  CD_JOVEM_1999 = 'Rumo ao Porto Seguro',
   CD_JOVEM_2005 = 'Fiel a Toda Prova',
+  CD_JOVEM_2006 = 'Sou de Jesus',
 }
 
 export enum PraiseTypeEnum {
