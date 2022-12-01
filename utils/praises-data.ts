@@ -633,7 +633,7 @@ export const praiseData: Praise[] = [
     title: 'Não Há o Que Temer',
     category: PraiseCategoryEnum.ADORADORES,
     imagePath: '',
-    cd: PraiseCDEnum.EMPTY,
+    cd: PraiseCDEnum.ADORADORES_1,
     type: PraiseTypeEnum.CIFRA,
     year: null,
     author: 'Willian Pereira Almeida',
