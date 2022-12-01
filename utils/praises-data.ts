@@ -16,6 +16,18 @@ export const praiseData: Praise[] = [
   {
     id: 1,
     externalURL:
+      'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Novo%20Hin%C3%A1rio%2F016%20-%20Sublime%20Amor%2F016%20-%20Sublime%20Amor%20-%20Novo%20Hin%C3%A1rio%20-%20Cifra.pdf',
+    title: '016 - Sublime Amor',
+    category: PraiseCategoryEnum.NOVO_HIASD,
+    imagePath: '',
+    cd: PraiseCDEnum.EMPTY,
+    type: PraiseTypeEnum.PARTITURA,
+    year: null,
+    author: 'Willian Pereira Almeida',
+  },
+  {
+    id: 1,
+    externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Novo%20Hin%C3%A1rio%2F020%20-%20Grande%20%C3%A9%20o%20Senhor%2F020%20-%20Grande%20%C3%A9%20o%20Senhor%20-%20Novo%20Hin%C3%A1rio%20-%20Cifra.pdf',
     title: '020 - Grande é o Senhor',
     category: PraiseCategoryEnum.NOVO_HIASD,
