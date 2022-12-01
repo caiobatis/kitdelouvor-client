@@ -11,7 +11,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -23,7 +23,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -35,7 +35,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -47,7 +47,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -59,7 +59,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -71,7 +71,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -83,7 +83,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -95,7 +95,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -107,7 +107,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -119,7 +119,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -131,7 +131,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -143,7 +143,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -155,7 +155,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -167,7 +167,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -179,7 +179,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -191,7 +191,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -203,7 +203,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -215,7 +215,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -227,7 +227,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -239,7 +239,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -251,7 +251,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -263,7 +263,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -275,7 +275,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -287,7 +287,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -299,7 +299,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -311,7 +311,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -323,7 +323,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -335,7 +335,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -347,7 +347,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -359,7 +359,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -371,7 +371,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -383,7 +383,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -395,7 +395,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -407,7 +407,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -419,7 +419,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -431,7 +431,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -443,7 +443,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -455,7 +455,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -467,7 +467,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -479,7 +479,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -491,7 +491,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.CD_JOVEM_1992,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -503,7 +503,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.CD_JOVEM_1999,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -515,7 +515,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.CD_JOVEM_2005,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -527,7 +527,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.CD_JOVEM_2005,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -539,7 +539,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.CD_JOVEM_2005,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -551,7 +551,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.CD_JOVEM_2005,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
 
   {
@@ -564,7 +564,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.CD_JOVEM_2005,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -576,7 +576,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.CD_JOVEM_2005,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -588,7 +588,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.CD_JOVEM_2005,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -600,7 +600,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.CD_JOVEM_2005,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -612,7 +612,7 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.CD_JOVEM_2006,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
   {
     id: 1,
@@ -624,6 +624,6 @@ export const praiseData: Praise[] = [
     cd: PraiseCDEnum.EMPTY,
     type: PraiseTypeEnum.CIFRA,
     year: null,
-    author: 'Fulano da Silva',
+    author: 'Willian Pereira Almeida',
   },
 ];
