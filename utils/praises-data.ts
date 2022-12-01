@@ -220,6 +220,18 @@ export const praiseData: Praise[] = [
   {
     id: 1,
     externalURL:
+      'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Novo%20Hin%C3%A1rio%2F166%20-%20Caminhando%2F166%20-%20Caminhando%20-%20Novo%20Hin%C3%A1rio%20-%20Cifra.pdf',
+    title: '166 - Caminhando - Novo Hinário',
+    category: PraiseCategoryEnum.NOVO_HIASD,
+    imagePath: '',
+    cd: PraiseCDEnum.EMPTY,
+    type: PraiseTypeEnum.CIFRA,
+    year: null,
+    author: 'Willian Pereira Almeida',
+  },
+  {
+    id: 1,
+    externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Novo%20Hin%C3%A1rio%2F182%20-%20Eu%20Perten%C3%A7o%20Ao%20Meu%20Rei%2F182%20-%20Eu%20Perten%C3%A7o%20Ao%20Meu%20Rei%20-%20Novo%20Hin%C3%A1rio%20-%20Cifra.pdf',
     title: '182 - Eu Pertenço Ao Meu Rei - Novo Hinário',
     category: PraiseCategoryEnum.NOVO_HIASD,
