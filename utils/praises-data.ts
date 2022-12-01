@@ -5,7 +5,7 @@ export const praiseData: Praise[] = [
     id: 1,
     externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Novo%20Hin%C3%A1rio%2F016%20-%20Sublime%20Amor%2F016%20-%20Sublime%20Amor%20-%20Novo%20Hin%C3%A1rio%20-%20Cifra.pdf',
-    title: '016 - Sublime Amor',
+    title: '16 - Sublime Amor',
     category: PraiseCategoryEnum.NOVO_HIASD,
     imagePath: '',
     cd: PraiseCDEnum.EMPTY,
@@ -17,7 +17,7 @@ export const praiseData: Praise[] = [
     id: 1,
     externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Novo%20Hin%C3%A1rio%2F016%20-%20Sublime%20Amor%2F016%20-%20Sublime%20Amor%20-%20Novo%20Hin%C3%A1rio%20-%20Cifra.pdf',
-    title: '016 - Sublime Amor',
+    title: '16 - Sublime Amor',
     category: PraiseCategoryEnum.NOVO_HIASD,
     imagePath: '',
     cd: PraiseCDEnum.EMPTY,
@@ -29,7 +29,7 @@ export const praiseData: Praise[] = [
     id: 1,
     externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Novo%20Hin%C3%A1rio%2F020%20-%20Grande%20%C3%A9%20o%20Senhor%2F020%20-%20Grande%20%C3%A9%20o%20Senhor%20-%20Novo%20Hin%C3%A1rio%20-%20Cifra.pdf',
-    title: '020 - Grande é o Senhor',
+    title: '20 - Grande é o Senhor',
     category: PraiseCategoryEnum.NOVO_HIASD,
     imagePath: '',
     cd: PraiseCDEnum.EMPTY,
@@ -41,7 +41,7 @@ export const praiseData: Praise[] = [
     id: 1,
     externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Novo%20Hin%C3%A1rio%2F029%20-%20O%20Amor%20De%20Jesus%2F029%20-%20O%20Amor%20De%20Jesus%20-%20Novo%20Hin%C3%A1rio%20-%20Cifra.pdf',
-    title: '029 - O Amor De Jesus',
+    title: '29 - O Amor De Jesus',
     category: PraiseCategoryEnum.NOVO_HIASD,
     imagePath: '',
     cd: PraiseCDEnum.EMPTY,
@@ -53,7 +53,7 @@ export const praiseData: Praise[] = [
     id: 1,
     externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Novo%20Hin%C3%A1rio%2F032%20-%20Brilha%2C%20Jesus%2F032%20-%20Brilha%2C%20Jesus%20-%20Novo%20Hin%C3%A1rio%20-%20Cifra.pdf',
-    title: '032 - Brilha, Jesus',
+    title: '32 - Brilha, Jesus',
     category: PraiseCategoryEnum.NOVO_HIASD,
     imagePath: '',
     cd: PraiseCDEnum.EMPTY,
@@ -65,7 +65,7 @@ export const praiseData: Praise[] = [
     id: 1,
     externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Novo%20Hin%C3%A1rio%2F035%20-%20Ele%20%C3%A9%20Exaltado%2F035%20-%20Ele%20%C3%A9%20Exaltado%20-%20Novo%20Hin%C3%A1rio%20-%20Cifra.pdf',
-    title: '035 - Ele é Exaltado',
+    title: '35 - Ele é Exaltado',
     category: PraiseCategoryEnum.NOVO_HIASD,
     imagePath: '',
     cd: PraiseCDEnum.EMPTY,
@@ -77,7 +77,7 @@ export const praiseData: Praise[] = [
     id: 1,
     externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Novo%20Hin%C3%A1rio%2F041%20-%20Chuvas%20De%20B%C3%AAn%C3%A7%C3%A3os%2F041%20-%20Chuvas%20De%20B%C3%AAn%C3%A7%C3%A3os%20-%20Novo%20Hin%C3%A1rio%20-%20Cifra.pdf',
-    title: '041 - Chuvas De Bênçãos',
+    title: '41 - Chuvas De Bênçãos',
     category: PraiseCategoryEnum.NOVO_HIASD,
     imagePath: '',
     cd: PraiseCDEnum.EMPTY,
@@ -89,7 +89,7 @@ export const praiseData: Praise[] = [
     id: 1,
     externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Novo%20Hin%C3%A1rio%2F044%20-%20O%20Santo%20Esp%C3%ADrito%2F044%20-%20O%20Santo%20Esp%C3%ADrito%20-%20Novo%20Hin%C3%A1rio%20-%20Cifra.pdf',
-    title: '044 - O Santo Espírito',
+    title: '44 - O Santo Espírito',
     category: PraiseCategoryEnum.NOVO_HIASD,
     imagePath: '',
     cd: PraiseCDEnum.EMPTY,
@@ -101,7 +101,7 @@ export const praiseData: Praise[] = [
     id: 1,
     externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Novo%20Hin%C3%A1rio%2F046%20-%20Dia%20de%20Chuva%2F046%20-%20Dia%20de%20Chuva%20-%20Novo%20Hin%C3%A1rio%20-%20Cifra.pdf',
-    title: '046 - Dia de Chuva',
+    title: '46 - Dia de Chuva',
     category: PraiseCategoryEnum.NOVO_HIASD,
     imagePath: '',
     cd: PraiseCDEnum.EMPTY,
@@ -113,7 +113,7 @@ export const praiseData: Praise[] = [
     id: 1,
     externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Novo%20Hin%C3%A1rio%2F048%20-%20O%20Poder%20do%20Esp%C3%ADrito%2F048%20-%20O%20Poder%20do%20Esp%C3%ADrito%20-%20Novo%20Hin%C3%A1rio%20-%20Cifra.pdf',
-    title: '048 - O Poder do Espírito',
+    title: '48 - O Poder do Espírito',
     category: PraiseCategoryEnum.NOVO_HIASD,
     imagePath: '',
     cd: PraiseCDEnum.EMPTY,
@@ -125,7 +125,7 @@ export const praiseData: Praise[] = [
     id: 1,
     externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Novo%20Hin%C3%A1rio%2F054%20-%20Unidos%20Pela%20Palavra%2F054%20-%20Unidos%20Pela%20Palavra%20-%20Novo%20Hin%C3%A1rio%20-%20Cifra.pdf',
-    title: '054 - Unidos Pela Palavra',
+    title: '54 - Unidos Pela Palavra',
     category: PraiseCategoryEnum.NOVO_HIASD,
     imagePath: '',
     cd: PraiseCDEnum.EMPTY,
@@ -137,7 +137,7 @@ export const praiseData: Praise[] = [
     id: 1,
     externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Novo%20Hin%C3%A1rio%2F062%20-%20Qu%C3%A3o%20Grande%20%C3%89s%20Tu%2F062%20-%20Qu%C3%A3o%20Grande%20%C3%89s%20Tu%20-%20Novo%20Hin%C3%A1rio%20-%20Cifra.pdf',
-    title: '062 - Quão Grande És Tu',
+    title: '62 - Quão Grande És Tu',
     category: PraiseCategoryEnum.NOVO_HIASD,
     imagePath: '',
     cd: PraiseCDEnum.EMPTY,
@@ -149,7 +149,7 @@ export const praiseData: Praise[] = [
     id: 1,
     externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Novo%20Hin%C3%A1rio%2F068%20-%20Restaura%2F068%20-%20Restaura%20-%20Novo%20Hin%C3%A1rio%20-%20Cifra.pdf',
-    title: '068 - Restaura',
+    title: '68 - Restaura',
     category: PraiseCategoryEnum.NOVO_HIASD,
     imagePath: '',
     cd: PraiseCDEnum.EMPTY,
@@ -509,7 +509,7 @@ export const praiseData: Praise[] = [
     id: 1,
     externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Minist%C3%A9rio%20Jovem%2FCD%20Jovem%201992%20-%20Nosso%20Sol%20%C3%A9%20Jesus%2F02%20-%20Brilha%20Jesus%2F02%20-%20Brilha%20Jesus%20-%20Cifra.pdf',
-    title: '02 - Brilha Jesus',
+    title: 'Brilha Jesus',
     category: PraiseCategoryEnum.MINISTERIO_JOVEM,
     imagePath: '',
     cd: PraiseCDEnum.CD_JOVEM_1992,
@@ -521,7 +521,7 @@ export const praiseData: Praise[] = [
     id: 1,
     externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Minist%C3%A9rio%20Jovem%2FCD%20Jovem%201999%20-%20Rumo%20ao%20Porto%20Seguro%2F03%20-%20O%20Poder%20do%20Amor%2F03%20-%20O%20Poder%20do%20Amor%20-%20Cifra.pdf',
-    title: '03 - O Poder do Amor',
+    title: 'O Poder do Amor',
     category: PraiseCategoryEnum.MINISTERIO_JOVEM,
     imagePath: '',
     cd: PraiseCDEnum.CD_JOVEM_1999,
@@ -533,7 +533,7 @@ export const praiseData: Praise[] = [
     id: 1,
     externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Minist%C3%A9rio%20Jovem%2FCD%20Jovem%202005%20-%20Fiel%20a%20Toda%20Prova%2F01%20-%20Fiel%20a%20Toda%20Prova%2F01%20-%20Fiel%20a%20Toda%20Prova%20-%20Cifra.pdf',
-    title: '01 - Fiel a Toda Prova',
+    title: 'Fiel a Toda Prova',
     category: PraiseCategoryEnum.MINISTERIO_JOVEM,
     imagePath: '',
     cd: PraiseCDEnum.CD_JOVEM_2005,
@@ -545,7 +545,7 @@ export const praiseData: Praise[] = [
     id: 1,
     externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Minist%C3%A9rio%20Jovem%2FCD%20Jovem%202005%20-%20Fiel%20a%20Toda%20Prova%2F02%20-%20Fonte%20de%20Esperan%C3%A7a%2F02%20-%20Fonte%20de%20Esperan%C3%A7a%20-%20Cifra.pdf',
-    title: '02 - Fonte de Esperança',
+    title: 'Fonte de Esperança',
     category: PraiseCategoryEnum.MINISTERIO_JOVEM,
     imagePath: '',
     cd: PraiseCDEnum.CD_JOVEM_2005,
@@ -557,7 +557,7 @@ export const praiseData: Praise[] = [
     id: 1,
     externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Minist%C3%A9rio%20Jovem%2FCD%20Jovem%202005%20-%20Fiel%20a%20Toda%20Prova%2F03%20-%20Fr%C3%A1gil%20Embarca%C3%A7%C3%A3o%2F03%20-%20Fr%C3%A1gil%20Embarca%C3%A7%C3%A3o%20-%20Cifra.pdf',
-    title: '03 - Frágil Embarcação',
+    title: 'Frágil Embarcação',
     category: PraiseCategoryEnum.MINISTERIO_JOVEM,
     imagePath: '',
     cd: PraiseCDEnum.CD_JOVEM_2005,
@@ -569,7 +569,7 @@ export const praiseData: Praise[] = [
     id: 1,
     externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Minist%C3%A9rio%20Jovem%2FCD%20Jovem%202005%20-%20Fiel%20a%20Toda%20Prova%2F04%20-%20Templo%20Vivo%2F04%20-%20Templo%20Vivo%20-%20Cifra.pdf',
-    title: '04 - Templo Vivo',
+    title: 'Templo Vivo',
     category: PraiseCategoryEnum.MINISTERIO_JOVEM,
     imagePath: '',
     cd: PraiseCDEnum.CD_JOVEM_2005,
@@ -582,7 +582,7 @@ export const praiseData: Praise[] = [
     id: 1,
     externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Minist%C3%A9rio%20Jovem%2FCD%20Jovem%202005%20-%20Fiel%20a%20Toda%20Prova%2F06%20-%20P%C3%A9s%20na%20Terra%20Olhos%20no%20C%C3%A9u%2F06%20-%20P%C3%A9s%20na%20Terra%20Olhos%20no%20C%C3%A9u%20-%20Cifra.pdf',
-    title: '06 - Pés na Terra Olhos no Céu',
+    title: 'Pés na Terra Olhos no Céu',
     category: PraiseCategoryEnum.MINISTERIO_JOVEM,
     imagePath: '',
     cd: PraiseCDEnum.CD_JOVEM_2005,
@@ -594,7 +594,7 @@ export const praiseData: Praise[] = [
     id: 1,
     externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Minist%C3%A9rio%20Jovem%2FCD%20Jovem%202005%20-%20Fiel%20a%20Toda%20Prova%2F07%20-%20Sempre%20de%20Jesus%2F07%20-%20Sempre%20de%20Jesus%20-%20Cifra.pdf',
-    title: '07 - Sempre de Jesus',
+    title: 'Sempre de Jesus',
     category: PraiseCategoryEnum.MINISTERIO_JOVEM,
     imagePath: '',
     cd: PraiseCDEnum.CD_JOVEM_2005,
@@ -606,7 +606,7 @@ export const praiseData: Praise[] = [
     id: 1,
     externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Minist%C3%A9rio%20Jovem%2FCD%20Jovem%202005%20-%20Fiel%20a%20Toda%20Prova%2F08%20-%20Encontros%2F08%20-%20Encontros%20-%20Cifra.pdf',
-    title: '08 - Encontros',
+    title: 'Encontros',
     category: PraiseCategoryEnum.MINISTERIO_JOVEM,
     imagePath: '',
     cd: PraiseCDEnum.CD_JOVEM_2005,
@@ -618,7 +618,7 @@ export const praiseData: Praise[] = [
     id: 1,
     externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Minist%C3%A9rio%20Jovem%2FCD%20Jovem%202005%20-%20Fiel%20a%20Toda%20Prova%2F09%20-%20Vive%20em%20Mim%2F09%20-%20Vive%20em%20Mim%20-%20Cifra.pdf',
-    title: '09 - Vive em Mim',
+    title: 'Vive em Mim',
     category: PraiseCategoryEnum.MINISTERIO_JOVEM,
     imagePath: '',
     cd: PraiseCDEnum.CD_JOVEM_2005,
@@ -630,7 +630,7 @@ export const praiseData: Praise[] = [
     id: 1,
     externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Minist%C3%A9rio%20Jovem%2FCD%20Jovem%202006%20-%20Sou%20de%20Jesus%2F02%20-%20Sou%20de%20Jesus%20-%20Cifra.pdf',
-    title: '02 - Sou de Jesus',
+    title: 'Sou de Jesus',
     category: PraiseCategoryEnum.MINISTERIO_JOVEM,
     imagePath: '',
     cd: PraiseCDEnum.CD_JOVEM_2006,
@@ -642,7 +642,7 @@ export const praiseData: Praise[] = [
     id: 1,
     externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Adoradores%2FAdoradores%201%2F03%20-%20Nao%20Ha%20o%20Que%20Temer%2F03%20-%20N%C3%A3o%20H%C3%A1%20o%20Que%20Temer%20-%20Cifra.pdf',
-    title: '03 - Não Há o Que Temer',
+    title: 'Não Há o Que Temer',
     category: PraiseCategoryEnum.ADORADORES,
     imagePath: '',
     cd: PraiseCDEnum.EMPTY,
