@@ -641,6 +641,18 @@ export const praiseData: Praise[] = [
   {
     id: 1,
     externalURL:
+      'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Minist%C3%A9rio%20Jovem%2FCD%20Jovem%202009%20-%20Brilha%20em%20Mim%2F08%20-%20Enquanto%20eu%20Viver%20-%20Cifra.pdf',
+    title: 'Enquanto eu Viver',
+    category: PraiseCategoryEnum.MINISTERIO_JOVEM,
+    imagePath: '',
+    cd: PraiseCDEnum.CD_JOVEM_2009,
+    type: PraiseTypeEnum.CIFRA,
+    year: null,
+    author: 'Willian Pereira Almeida',
+  },
+  {
+    id: 1,
+    externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Adoradores%2FAdoradores%201%2F03%20-%20Nao%20Ha%20o%20Que%20Temer%2F03%20-%20N%C3%A3o%20H%C3%A1%20o%20Que%20Temer%20-%20Cifra.pdf',
     title: 'Não Há o Que Temer',
     category: PraiseCategoryEnum.ADORADORES,

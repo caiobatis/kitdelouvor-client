@@ -16,6 +16,7 @@ export enum PraiseCDEnum {
   CD_JOVEM_1999 = 'Rumo ao Porto Seguro - 1999',
   CD_JOVEM_2005 = 'Fiel a Toda Prova - 2005',
   CD_JOVEM_2006 = 'Sou de Jesus - 2006',
+  CD_JOVEM_2009 = 'Brilha em Mim - 2009',
   ADORADORES_1 = 'Adoradores 1',
   ADORADORES_2 = 'Adoradores 2',
   ADORADORES_3 = 'Adoradores 3',
