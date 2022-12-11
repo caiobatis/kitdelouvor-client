@@ -388,6 +388,18 @@ export const praiseData: Praise[] = [
   {
     id: 1,
     externalURL:
+      'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Novo%20Hin%C3%A1rio%2F346%20-%20Como%20Agradecer%2F346%20-%20Como%20Agradecer%20-%20Novo%20Hin%C3%A1rio%20-%20Cifra.pdf',
+    title: '346 - Como Agradecer',
+    category: PraiseCategoryEnum.NOVO_HIASD,
+    imagePath: '',
+    cd: PraiseCDEnum.EMPTY,
+    type: PraiseTypeEnum.CIFRA,
+    year: null,
+    author: 'Willian Pereira Almeida',
+  },
+  {
+    id: 1,
+    externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Novo%20Hin%C3%A1rio%2F349%20-%20Gratid%C3%A3o%2F349%20-%20Gratid%C3%A3o%20-%20Novo%20Hin%C3%A1rio%20-%20Cifra.pdf',
     title: '349 - Gratidão',
     category: PraiseCategoryEnum.NOVO_HIASD,
