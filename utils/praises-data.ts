@@ -674,4 +674,16 @@ export const praiseData: Praise[] = [
     year: null,
     author: 'Willian Pereira Almeida',
   },
+  {
+    id: 1,
+    externalURL:
+      'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Cantores%2FPrisma%2FAgrade%C3%A7a%20ao%20Pai%20-%20Cifra.pdf',
+    title: 'Agradeça ao Pai',
+    category: PraiseCategoryEnum.PRISMA,
+    imagePath: '',
+    cd: PraiseCDEnum.EMPTY,
+    type: PraiseTypeEnum.CIFRA,
+    year: null,
+    author: 'Willian Pereira Almeida',
+  },
 ];

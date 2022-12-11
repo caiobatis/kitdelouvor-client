@@ -8,6 +8,7 @@ export enum PraiseCategoryEnum {
   NOVO_HIASD = 'Novo Hinário IASD',
   MINISTERIO_JOVEM = 'Ministério Jovem',
   ADORADORES = 'Adoradores',
+  PRISMA = "Prisma"
 }
 
 export enum PraiseCDEnum {
