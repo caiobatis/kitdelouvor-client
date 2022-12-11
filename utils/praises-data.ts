@@ -388,6 +388,18 @@ export const praiseData: Praise[] = [
   {
     id: 1,
     externalURL:
+      'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Novo%20Hin%C3%A1rio%2F349%20-%20Gratid%C3%A3o%2F349%20-%20Gratid%C3%A3o%20-%20Novo%20Hin%C3%A1rio%20-%20Cifra.pdf',
+    title: '349 - Gratidão',
+    category: PraiseCategoryEnum.NOVO_HIASD,
+    imagePath: '',
+    cd: PraiseCDEnum.EMPTY,
+    type: PraiseTypeEnum.CIFRA,
+    year: null,
+    author: 'Willian Pereira Almeida',
+  },
+  {
+    id: 1,
+    externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Novo%20Hin%C3%A1rio%2F353%20-%20%C3%89%20Prazer%20Servir%20A%20Cristo%2F353%20-%20%C3%89%20Prazer%20Servir%20A%20Cristo%20-%20Novo%20Hin%C3%A1rio%20-%20Cifra.pdf',
     title: '353 - É Prazer Servir A Cristo',
     category: PraiseCategoryEnum.NOVO_HIASD,
