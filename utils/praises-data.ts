@@ -532,6 +532,18 @@ export const praiseData: Praise[] = [
   {
     id: 1,
     externalURL:
+      'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Minist%C3%A9rio%20Jovem%2FCD%20Jovem%202002%20-%20Voc%C3%AA%20Me%20Pertence%2F06%20-%20Te%20Agrade%C3%A7o%2F06%20-%20Te%20Agrade%C3%A7o%20-%20Cifra.pdf',
+    title: 'Te Agradeço',
+    category: PraiseCategoryEnum.MINISTERIO_JOVEM,
+    imagePath: '',
+    cd: PraiseCDEnum.CD_JOVEM_2002,
+    type: PraiseTypeEnum.CIFRA,
+    year: null,
+    author: 'Willian Pereira Almeida',
+  },
+  {
+    id: 1,
+    externalURL:
       'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Minist%C3%A9rio%20Jovem%2FCD%20Jovem%202005%20-%20Fiel%20a%20Toda%20Prova%2F01%20-%20Fiel%20a%20Toda%20Prova%2F01%20-%20Fiel%20a%20Toda%20Prova%20-%20Cifra.pdf',
     title: 'Fiel a Toda Prova',
     category: PraiseCategoryEnum.MINISTERIO_JOVEM,
@@ -641,7 +653,7 @@ export const praiseData: Praise[] = [
   {
     id: 1,
     externalURL:
-      'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Minist%C3%A9rio%20Jovem%2FCD%20Jovem%202009%20-%20Brilha%20em%20Mim%2F08%20-%20Enquanto%20eu%20Viver%20-%20Cifra.pdf',
+      'https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr5ugxwrsywe/b/kitdelouvor/o/Minist%C3%A9rio%20Jovem%2FCD%20Jovem%202009%20-%20Brilha%20em%20Mim%2F08%20-%20Enquanto%20eu%20Viver%2F08%20-%20Enquanto%20eu%20Viver%20-%20Cifra.pdf',
     title: 'Enquanto eu Viver',
     category: PraiseCategoryEnum.MINISTERIO_JOVEM,
     imagePath: '',

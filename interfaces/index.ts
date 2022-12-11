@@ -14,6 +14,7 @@ export enum PraiseCDEnum {
   EMPTY = '',
   CD_JOVEM_1992 = 'Nosso Sol é Jesus - 1992',
   CD_JOVEM_1999 = 'Rumo ao Porto Seguro - 1999',
+  CD_JOVEM_2002 = 'Você me Pertence - 2002',
   CD_JOVEM_2005 = 'Fiel a Toda Prova - 2005',
   CD_JOVEM_2006 = 'Sou de Jesus - 2006',
   CD_JOVEM_2009 = 'Brilha em Mim - 2009',
