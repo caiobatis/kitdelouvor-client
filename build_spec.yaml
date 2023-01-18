@@ -7,7 +7,7 @@ failImmediatelyOnError: true
 steps:
   - type: Command
     name: "buildDockerImage"
-    shell: shellType
+    shell: bash
     timeoutInSeconds: 650
     failImmediatelyOnError: true
     command: |
