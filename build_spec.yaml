@@ -1,0 +1,19 @@
+version: 0.1
+component: build
+timeoutInSeconds: 10000
+shell: bash
+failImmediatelyOnError: true
+
+steps:
+  - type: Command
+    name: "buildDockerImage"
+    shell: shellType
+    timeoutInSeconds: 650
+    failImmediatelyOnError: true
+    command: |
+      docker build -t kitdelouvor
+
+outputArtifacts:
+  - name: kitdelouvor
+    type: DOCKER_IMAGE
+    location: kitdelouvor
