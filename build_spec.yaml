@@ -11,7 +11,7 @@ steps:
     timeoutInSeconds: 650
     failImmediatelyOnError: true
     command: |
-      docker build -t kitdelouvor
+      docker build -t kitdelouvor .
 
 outputArtifacts:
   - name: kitdelouvor
