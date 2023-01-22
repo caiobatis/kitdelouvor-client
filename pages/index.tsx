@@ -52,8 +52,7 @@ const IndexPage: FC<IndexProps> = ({ data = [] }) => {
           </Heading>
 
           <Text color={useColorModeValue('gray.500', 'gray.200')} maxW={'3xl'}>
-            Use a barra de busca abaixo para procurar pelo hino desejado. Busque por título, nome do
-            CD ou ano da música.
+            Utilize a barra de pesquisa abaixo para encontrar o hino desejado. Pesquise por título, nome do álbum ou ano da música.
           </Text>
 
           <Stack spacing={6} direction='row' w={{ base: 'full', md: 'xl' }}>
